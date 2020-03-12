@@ -11,7 +11,7 @@ class Dog
     @breed = modality
   end
 
-  def breed 
+  def breed
     @breed
   end
 end
